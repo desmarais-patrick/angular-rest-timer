@@ -1,0 +1,22 @@
+.icon-display {
+    display: block;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.icon-display img {
+    width: 12rem;
+}
+
+@media screen and (min-width: 600px) {
+    .icon-display {
+        display: inline-block;
+        width: 30%;
+        vertical-align: top;
+        padding: 0;
+    }
+
+    .icon-display img {
+        width: 9rem;
+    }
+}

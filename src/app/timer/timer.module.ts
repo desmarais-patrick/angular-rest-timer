@@ -3,6 +3,9 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 
 import { TimerComponent } from './timer.component';
+import { TimerIconComponent } from './timer-icon.component';
+import { TimeLeftPipe } from './time-left.pipe';
+import { TimerTimeComponent } from './timer-time.component';
 
 const routes: Routes = [
     { path: "timer", component: TimerComponent },
@@ -14,7 +17,10 @@ const routes: Routes = [
     RouterModule.forChild(routes)
   ],
   declarations: [
-    TimerComponent
+    TimerComponent,
+    TimerIconComponent,
+    TimerTimeComponent,
+    TimeLeftPipe,
   ],
   exports: [
     TimerComponent

@@ -1,0 +1,28 @@
+.time-display {
+    text-align: right;
+    line-height: 7rem;
+}
+
+.time-display .down-indicator {
+    display: inline;
+    vertical-align: top;
+    width: 1.5rem;
+    margin-right: 1.5rem;
+    padding-top: 1rem;
+}
+
+.time-display .time-left {
+    display: inline;
+    font-family: Futura, Menlo, monospace;
+    font-size: 7rem;
+    width: 80%;
+}
+
+@media screen and (min-width: 600px) {
+    .time-display {
+        display: inline-block;
+        width: 70%;
+        vertical-align: top;
+        padding-top: 1rem;
+    }
+}

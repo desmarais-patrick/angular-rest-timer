@@ -1,0 +1,5 @@
+<div class="time-display">
+    <img *ngIf="isActiveTimer" [ngClass]="{'down-indicator': true, 'down-indicator-active': isActiveTimer}"
+        src="{{downIndicatorImgSrc}}" />
+    <div class="time-left">{{ minutesLeft | timeLeft }}</div>
+</div>
