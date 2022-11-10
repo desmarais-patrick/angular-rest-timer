@@ -19,7 +19,8 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/favicon.ico",
+              "src/favicon.png",
+              "src/favicon.svg",
               "src/assets"
             ],
             "styles": [
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "4c76b027-1ec6-4acd-869f-0c464aa258c2"
   }
 }
