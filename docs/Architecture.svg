@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="792px" height="612px" viewBox="0 0 792 612" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Architecture</title>
+    <g id="Architecture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="Line" d="M201,96 L201,243.997 L399.9975,243.500003 L401,243.497497 L401,275 L407,275 L400,289 L393,275 L399,275 L399,245.502 L200.0025,245.999997 L199,246.002503 L199,96 L201,96 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-2" d="M599.518344,216.481986 L601.518014,216.518344 L601.499835,217.518179 L600.999835,245.018179 L600.981939,246.002458 L599.9975,245.999997 L401,245.502 L401,275 L407,275 L400,289 L393,275 L399,275 L399,243.497497 L400.0025,243.500003 L599.018,243.998 L599.500165,217.481821 L599.518344,216.481986 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M601.5,96.5 L601.5,169.5 L607.5,169.5 L600.5,183.5 L593.5,169.5 L599.5,169.5 L599.5,96.5 L601.5,96.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M401.5,322.5 L401.5,369.5 L407.5,369.5 L400.5,383.5 L393.5,369.5 L399.5,369.5 L399.5,322.5 L401.5,322.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <g id="Node" transform="translate(127.000000, 63.000000)">
+            <rect id="Background" stroke="#700845" fill="#E0108B" x="0" y="0" width="149" height="34" rx="4"></rect>
+            <text id="AppModule" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.2498438" y="23">BrowserModule</tspan>
+            </text>
+        </g>
+        <g id="Node-Copy-2" transform="translate(530.500000, 63.000000)">
+            <rect id="Background" stroke="#700845" fill="#E0108B" x="0" y="0" width="140" height="34" rx="4"></rect>
+            <text id="AppModule" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.230625" y="23">RouterModule</tspan>
+            </text>
+        </g>
+        <g id="Node" transform="translate(340.000000, 289.000000)">
+            <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="113" height="34" rx="4"></rect>
+            <text id="AppModule" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.1729688" y="23">AppModule</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(326.000000, 383.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="147" height="34" rx="4"></rect>
+            <text id="AppModule" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="19.730625" y="23">AppComponent</tspan>
+            </text>
+        </g>
+        <g id="Node-Copy" transform="translate(512.000000, 183.000000)">
+            <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="176" height="34" rx="4"></rect>
+            <text id="AppModule" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3075" y="23">AppRoutingModule</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
