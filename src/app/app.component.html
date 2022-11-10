@@ -1,2 +1,6 @@
-<h1>{{title}}</h1>
-<router-outlet></router-outlet>
+<div class="container">
+    <div [ngClass]="{ 'content-container': true, loaded: isLoaded }">
+        <router-outlet></router-outlet>
+        <rt-footer></rt-footer>
+    </div>
+</div>
