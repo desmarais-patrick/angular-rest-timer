@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'angular-rest-timer'`, () => {
+  it(`should have as title 'Rest Timer'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('angular-rest-timer');
+    expect(app.title).toEqual('Rest Timer');
   });
 
-  it('should render title', () => {
+  it('should render footer', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('angular-rest-timer app is running!');
+    expect(compiled.querySelector('rt-footer')).toBeTruthy();
   });
 });
