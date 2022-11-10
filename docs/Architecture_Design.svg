@@ -1,131 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="792px" height="612px" viewBox="0 0 792 612" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Architecture_design</title>
-    <g id="Architecture_design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line-2" d="M601,139.5 L601,230.357594 L599.988625,230.346089 L459,228.742 L459,357.5 L465,357.5 L458,371.5 L451,357.5 L457,357.5 L457,226.719329 L458.011375,226.730834 L599,228.334 L599,139.5 L601,139.5 Z" fill="#174239" fill-rule="nonzero"></path>
-        <path id="Line-3" d="M400,56.5 L407,70.5 L401,70.5 L401,107 L399,107 L399,70.5 L393,70.5 L400,56.5 Z" fill="#700845" fill-rule="nonzero"></path>
-        <path id="Line-3-Copy" d="M200,54.5 L207,68.5 L201,68.5 L201,105 L199,105 L199,68.5 L193,68.5 L200,54.5 Z" fill="#700845" fill-rule="nonzero"></path>
-        <g id="ExternalModule" transform="translate(128.000000, 21.000000)">
+    <title>Architecture_design_02</title>
+    <g id="Architecture_design_02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="Line-3" d="M322,96.5 L329,110.5 L323,110.5 L323,147 L321,147 L321,110.5 L315,110.5 L322,96.5 Z" fill="#700845" fill-rule="nonzero"></path>
+        <path id="Line-3-Copy" d="M122,94.5 L129,108.5 L123,108.5 L123,145 L121,145 L121,108.5 L115,108.5 L122,94.5 Z" fill="#700845" fill-rule="nonzero"></path>
+        <g id="ExternalModule" transform="translate(50.000000, 61.000000)">
             <rect id="Background" stroke="#700845" fill="#E0108B" x="0" y="0" width="149" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.2498438" y="23">BrowserModule</tspan>
             </text>
         </g>
-        <g id="ExternalModule" transform="translate(331.500000, 21.000000)">
+        <g id="ExternalModule" transform="translate(253.500000, 61.000000)">
             <rect id="Background" stroke="#700845" fill="#E0108B" x="0" y="0" width="140" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.230625" y="23">RouterModule</tspan>
             </text>
         </g>
-        <g id="Module" transform="translate(143.000000, 106.000000)">
+        <g id="Module" transform="translate(65.000000, 146.000000)">
             <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="113" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.1729688" y="23">AppModule</tspan>
             </text>
         </g>
-        <g id="Module" transform="translate(312.000000, 106.000000)">
+        <g id="Module" transform="translate(234.000000, 146.000000)">
             <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="176" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.3075" y="23">AppRoutingModule</tspan>
             </text>
         </g>
-        <g id="Module-Copy" transform="translate(534.500000, 106.000000)">
+        <g id="Module-Copy" transform="translate(351.500000, 236.000000)">
             <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="131" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.2114063" y="23">TimerModule</tspan>
             </text>
         </g>
-        <g id="Component" transform="translate(125.000000, 180.000000)">
+        <g id="Module" transform="translate(350.000000, 476.000000)">
+            <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="158" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.2690625" y="23">SettingsModule</tspan>
+            </text>
+        </g>
+        <g id="Module" transform="translate(350.000000, 409.000000)">
+            <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="140" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.230625" y="23">SharedModule</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(47.000000, 220.000000)">
             <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="147" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="19.730625" y="23">AppComponent</tspan>
             </text>
         </g>
-        <g id="Component" transform="translate(607.000000, 379.000000)">
-            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="155" height="34" rx="4"></rect>
-            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="12" font-weight="normal" letter-spacing="-0.48" fill="#FFFFFF">
-                <tspan x="15.5094531" y="21">TimerIconComponent</tspan>
-            </text>
-        </g>
-        <g id="Component" transform="translate(607.000000, 259.000000)">
-            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="155" height="34" rx="4"></rect>
-            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="12" font-weight="normal" letter-spacing="-0.48" fill="#FFFFFF">
-                <tspan x="18.8700391" y="21">ControlsComponent</tspan>
-            </text>
-        </g>
-        <g id="Component" transform="translate(607.000000, 305.000000)">
-            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="155" height="34" rx="4"></rect>
-            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="12" font-weight="normal" letter-spacing="-0.48" fill="#FFFFFF">
-                <tspan x="22.230625" y="21">PresetsComponent</tspan>
-            </text>
-        </g>
-        <g id="Component" transform="translate(368.000000, 434.000000)">
+        <g id="Component" transform="translate(542.000000, 476.000000)">
             <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="185" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.3267187" y="23">SettingsComponent</tspan>
             </text>
         </g>
-        <g id="Component" transform="translate(379.500000, 372.000000)">
+        <g id="Component" transform="translate(543.500000, 236.000000)">
             <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="158" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.2690625" y="23">TimerComponent</tspan>
             </text>
         </g>
-        <g id="Component" transform="translate(607.000000, 425.000000)">
-            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="155" height="34" rx="4"></rect>
-            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="12" font-weight="normal" letter-spacing="-0.48" fill="#FFFFFF">
-                <tspan x="15.5094531" y="21">TimerTimeComponent</tspan>
-            </text>
-        </g>
-        <g id="Component" transform="translate(116.000000, 230.000000)">
+        <g id="Component" transform="translate(38.000000, 270.000000)">
             <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="167" height="34" rx="4"></rect>
             <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
                 <tspan x="16.2882812" y="23">FooterComponent</tspan>
             </text>
         </g>
-        <g id="Services" transform="translate(83.000000, 333.000000)">
-            <path d="M4,0 L245,0 C247.209139,-1.61026889e-14 249,1.790861 249,4 L249,168 C249,170.209139 247.209139,172 245,172 L4,172 C1.790861,172 2.705415e-16,170.209139 0,168 L0,4 C-7.1463071e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Group" stroke="#979797" fill-opacity="0.5" fill="#D8D8D8" stroke-dasharray="8"></path>
-            <g id="Service" transform="translate(22.000000, 70.000000)">
-                <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="203" height="34" rx="4"></rect>
-                <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
-                    <tspan x="16.3651562" y="23">NotificationService</tspan>
-                </text>
-            </g>
-            <g id="Service" transform="translate(26.500000, 116.000000)">
-                <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="194" height="34" rx="4"></rect>
-                <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
-                    <tspan x="16.3459375" y="23">PersistenceService</tspan>
-                </text>
-            </g>
-            <g id="Service" transform="translate(53.500000, 24.000000)">
-                <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="140" height="34" rx="4"></rect>
-                <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
-                    <tspan x="16.230625" y="23">TimerService</tspan>
-                </text>
-            </g>
-        </g>
-        <path id="Line" d="M298.5,116.5 L312.5,123.5 L298.5,130.5 L298.5,124.5 L255.5,124.5 L255.5,122.5 L298.5,122.5 L298.5,116.5 Z" fill="#174239" fill-rule="nonzero"></path>
-        <path id="Line" d="M521.076074,115.849876 L535,123 L520.925545,129.849066 L520.99,123.849 L488.489248,123.499942 L487.489306,123.48919 L487.51081,121.489306 L488.510752,121.500058 L521.011,121.849 L521.076074,115.849876 Z" fill="#174239" fill-rule="nonzero"></path>
-        <g id="Component" transform="translate(600.500000, 538.000000)">
-            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="167" height="34" rx="4"></rect>
-            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="12" font-weight="normal" letter-spacing="-0.48" fill="#FFFFFF">
-                <tspan x="14.7882812" y="21">PresetFieldComponent</tspan>
+        <g id="Service" transform="translate(543.000000, 340.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="203" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3651562" y="23">NotificationService</tspan>
             </text>
         </g>
-        <path id="Line-8" d="M201.5,139.5 L201.5,166.5 L207.5,166.5 L200.5,180.5 L193.5,166.5 L199.5,166.5 L199.5,139.5 L201.5,139.5 Z" fill="#174239" fill-rule="nonzero"></path>
-        <path id="Line-8" d="M459,405 L459,420 L465,420 L458,434 L451,420 L457,420 L457,405 L459,405 Z" fill="#174239" fill-rule="nonzero"></path>
-        <line x1="200.5" y1="213.5" x2="200.5" y2="229.5" id="Line-9" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
-        <text id="SERVICES" font-family="AndaleMono, Andale Mono" font-size="12" font-weight="normal" letter-spacing="-0.48" fill="#254770">
-            <tspan x="173.115312" y="325">SERVICES</tspan>
-        </text>
-        <path id="Line-4" d="M346.5,382.5 L346.5,388.5 L380.5,388.5 L380.5,390.5 L346.5,390.5 L346.5,396.5 L332.5,389.5 L346.5,382.5 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-5" d="M341.166985,449.981385 L342.185427,450.00017 L368.518442,450.485884 L369.518272,450.504326 L369.481388,452.503986 L368.481558,452.485544 L343.166,452.018 L343.166985,468.501474 L342.179879,468.514203 L318.511,468.819 L318.589093,474.818904 L304.5,468 L318.408579,460.820067 L318.486,466.819 L341.166,466.527 L341.166985,449.981385 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-6" d="M593.5,315.5 L607.5,322.5 L593.5,329.5 L593.5,323.5 L564.928,323.5 L564.928571,390 L536.5,390 L536.5,388 L562.928,388 L562.928571,321.5 L593.5,321.5 L593.5,315.5 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-7" d="M593.5,269.5 L607.5,276.5 L593.5,283.5 L593.5,277.499 L564.928,277.499 L564.928571,389.98126 L563.947487,389.999821 L537.518916,390.499821 L536.519094,390.518737 L536.481263,388.519094 L537.481084,388.500179 L562.928,388.019 L562.928571,275.5 L593.5,275.499 L593.5,269.5 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-10" d="M564.928571,388.5 L564.928,418.091 L576,418.091 L576,395.5 L593.5,395.499 L593.5,389.5 L607.5,396.5 L593.5,403.5 L593.5,397.499 L578,397.499 L578,420.091339 L562.928571,420.091339 L562.928,390.499 L536.5,390.5 L536.5,388.5 L564.928571,388.5 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-11" d="M564.928571,387.980902 L564.928,418.091 L578,418.091339 L578,441.016 L593.518,441.27 L593.61662,435.271463 L607.5,442.5 L593.387142,449.269582 L593.485,443.27 L576.983609,442.999866 L576,442.983741 L576,420.091 L562.928571,420.091339 L562.928,390.018 L537.518916,390.499821 L536.519094,390.518737 L536.481263,388.519094 L537.481084,388.500179 L563.909656,388.000179 L564.928571,387.980902 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-12" d="M593.5,389.5 L607.5,396.5 L593.5,403.5 L593.5,397.499 L578,397.499 L578,420.091339 L564.928,420.091 L564.928571,438.537903 L561.342,438.537 L561.342926,450.5 L552.5,450.5 L552.5,448.5 L559.342,448.499 L559.342926,436.537903 L562.928,436.537 L562.928571,418.091339 L576,418.091 L576,395.5 L593.5,395.499 L593.5,389.5 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-13" d="M578,418.091339 L578,441.016 L593.518,441.27 L593.61662,435.271463 L607.5,442.5 L593.387142,449.269582 L593.485,443.27 L576.983609,442.999866 L576,442.983741 L576,420.091 L564.928,420.091 L564.928571,438.537903 L561.342,438.537 L561.342926,450.5 L552.5,450.5 L552.5,448.5 L559.342,448.5 L559.342926,436.537903 L562.928,436.537 L562.928571,418.091339 L578,418.091339 Z" fill="#254770" fill-rule="nonzero"></path>
-        <path id="Line-14" d="M561.342926,448.5 L561.342,460.772 L578,460.772034 L578,554.021 L586.524,554.202 L586.65207,548.203779 L600.5,555.5 L586.354265,562.200611 L586.482,556.201 L576.978728,555.999774 L576,555.97895 L576,462.772 L559.342926,462.772034 L559.342,450.5 L552.5,450.5 L552.5,448.5 L561.342926,448.5 Z" fill="#254770" fill-rule="nonzero"></path>
+        <g id="Service" transform="translate(541.500000, 409.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="194" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3459375" y="23">PersistenceService</tspan>
+            </text>
+        </g>
+        <g id="Service" transform="translate(542.500000, 289.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="140" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.230625" y="23">TimerService</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M220.5,156.5 L234.5,163.5 L220.5,170.5 L220.5,164.5 L177.5,164.5 L177.5,162.5 L220.5,162.5 L220.5,156.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line" d="M530.057371,246.886414 L544,254 L529.943554,260.885951 L529.992,254.886 L482.49187,254.499967 L481.491903,254.491837 L481.508163,252.491903 L482.50813,252.500033 L530.008,252.886 L530.057371,246.886414 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M123.5,179.5 L123.5,206.5 L129.5,206.5 L122.5,220.5 L115.5,206.5 L121.5,206.5 L121.5,179.5 L123.5,179.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <line x1="122.5" y1="253.5" x2="122.5" y2="269.5" id="Line-9" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="612.5" y1="270.5" x2="612.5" y2="287.5" id="Line-15" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="612.5" y1="323.5" x2="612.5" y2="340.5" id="Line-2" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
+        <path id="Line-4" d="M527.5,486.5 L541.5,493.5 L527.5,500.5 L527.5,494.5 L507.5,494.5 L507.5,492.5 L527.5,492.5 L527.5,486.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-5" d="M527.5,419.5 L541.5,426.5 L527.5,433.5 L527.5,427.5 L489.5,427.5 L489.5,425.5 L527.5,425.5 L527.5,419.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-6" d="M323.5,179.5 L323.5,252.017 L337.519,252.258 L337.622752,246.259697 L351.5,253.5 L337.381409,260.257616 L337.484,254.258 L322.482761,253.999851 L321.5,253.982907 L321.5,179.5 L323.5,179.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-7" d="M323.5,179.5 L323.5,492.018 L336.52,492.25 L336.627212,486.251156 L350.5,493.5 L336.377252,500.248924 L336.484,494.25 L322.482146,493.999841 L321.5,493.982302 L321.5,179.5 L323.5,179.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-16" d="M411.5,269.5 L411.5,395.5 L417.5,395.5 L410.5,409.5 L403.5,395.5 L409.5,395.5 L409.5,269.5 L411.5,269.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-10" d="M410.5,443.5 L417.5,457.5 L411.5,457.5 L411.5,477.5 L409.5,477.5 L409.5,457.5 L403.5,457.5 L410.5,443.5 Z" fill="#174239" fill-rule="nonzero"></path>
     </g>
 </svg>
