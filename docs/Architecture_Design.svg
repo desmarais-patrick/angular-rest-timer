@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="792px" height="612px" viewBox="0 0 792 612" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Architecture</title>
+    <g id="Architecture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="Line" d="M202,54 L202,166.997 L400.9975,166.500003 L402,166.497497 L402,198 L408,198 L401,212 L394,198 L400,198 L400,168.502 L201.0025,168.999997 L200,169.002503 L200,54 L202,54 Z" fill="#700845" fill-rule="nonzero"></path>
+        <path id="Line-2" d="M601,139.5 L601,169.002503 L599.9975,168.999997 L401,168.502 L401,198 L407,198 L400,212 L393,198 L399,198 L399,166.497497 L400.0025,166.500003 L599,166.997 L599,139.5 L601,139.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M601,55.5 L601,92 L607,92 L600,106 L593,92 L599,92 L599,55.5 L601,55.5 Z" fill="#700845" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M401,245.5 L401,272 L407,272 L400,286 L393,272 L399,272 L399,245.5 L401,245.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-5" d="M401.5,319 L401.5,449.5 L407.5,449.5 L400.5,463.5 L393.5,449.5 L399.5,449.5 L399.5,319 L401.5,319 Z" fill="#254770" fill-rule="nonzero"></path>
+        <path id="Line-6" d="M399.504484,318.995536 L401.504464,319.004484 L401.49999,320.004474 L400.99999,431.754474 L400.995536,432.75 L201,432.75 L201,449 L207,449 L200,463 L193,449 L199,449 L199,430.75 L399.004,430.75 L399.50001,319.995526 L399.504484,318.995536 Z" fill="#254770" fill-rule="nonzero"></path>
+        <path id="Line-7" d="M401,319 L401,430.751 L600.00125,431.000001 L601,431.001249 L601,449 L607,449 L600,463 L593,449 L599,449 L599,432.998 L399.99875,432.749999 L399,432.748751 L399,319 L401,319 Z" fill="#254770" fill-rule="nonzero"></path>
+        <line x1="200.5" y1="497.5" x2="200.5" y2="512.5" id="Line-8" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="200.5" y1="546.5" x2="200.5" y2="561.5" id="Line-9" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="400.5" y1="497.5" x2="400.5" y2="512.5" id="Line-10" stroke="#254770" stroke-width="2" stroke-linecap="square"></line>
+        <g id="ExternalModule" transform="translate(128.000000, 21.000000)">
+            <rect id="Background" stroke="#700845" fill="#E0108B" x="0" y="0" width="149" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.2498438" y="23">BrowserModule</tspan>
+            </text>
+        </g>
+        <g id="ExternalModule" transform="translate(531.500000, 21.000000)">
+            <rect id="Background" stroke="#700845" fill="#E0108B" x="0" y="0" width="140" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.230625" y="23">RouterModule</tspan>
+            </text>
+        </g>
+        <g id="Module" transform="translate(341.000000, 212.000000)">
+            <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="113" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.1729688" y="23">AppModule</tspan>
+            </text>
+        </g>
+        <g id="Module" transform="translate(512.000000, 106.000000)">
+            <rect id="Background" stroke="#174239" fill="#2E8471" x="0" y="0" width="176" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3075" y="23">AppRoutingModule</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(327.000000, 286.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="147" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="19.730625" y="23">AppComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(126.000000, 512.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="149" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.2498438" y="23">IconComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(308.000000, 463.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="185" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3267187" y="23">ControlsComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(312.500000, 512.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="176" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3075" y="23">PresetsComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(509.000000, 463.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="185" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3267187" y="23">SettingsComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(126.000000, 561.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="149" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.2498438" y="23">TimeComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(117.000000, 463.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="167" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.2882812" y="23">FooterComponent</tspan>
+            </text>
+        </g>
+        <g id="Component" transform="translate(32.000000, 266.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="203" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3651562" y="23">NotificationService</tspan>
+            </text>
+        </g>
+        <g id="Service" transform="translate(41.500000, 312.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="194" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.3459375" y="23">PersistenceService</tspan>
+            </text>
+        </g>
+        <g id="Service" transform="translate(95.500000, 358.000000)">
+            <rect id="Background" stroke="#254770" fill="#4A90E2" x="0" y="0" width="140" height="34" rx="4"></rect>
+            <text id="Label" font-family="AndaleMono, Andale Mono" font-size="16" font-weight="normal" letter-spacing="-0.64" fill="#FFFFFF">
+                <tspan x="16.230625" y="23">TimerService</tspan>
+            </text>
+        </g>
+        <path id="Line-11" d="M327.5,222.5 L341.5,229.5 L327.5,236.5 L327.5,230.5 L281,230.5 L281,284.5 L234.5,284.5 L234.5,282.5 L279,282.5 L279,228.5 L327.5,228.5 L327.5,222.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-12" d="M327.5,222.5 L341.5,229.5 L327.5,236.5 L327.5,230.499 L281,230.499 L281,330.5 L234.5,330.5 L234.5,328.5 L279,328.499 L279,228.5 L327.5,228.499 L327.5,222.5 Z" fill="#174239" fill-rule="nonzero"></path>
+        <path id="Line-13" d="M327.5,222.5 L341.5,229.5 L327.5,236.5 L327.5,230.5 L281,230.5 L281,376.5 L234.5,376.5 L234.5,374.5 L279,374.5 L279,228.5 L327.5,228.5 L327.5,222.5 Z" fill="#174239" fill-rule="nonzero"></path>
+    </g>
+</svg>
